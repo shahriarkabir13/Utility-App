@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Utility App</string>
+    <string name="title_main">My Utility App</string>
+    <string name="app_subtitle">Your everyday calculation &amp; conversion toolkit</string>
+    <string name="btn_calculator">Calculator</string>
+    <string name="btn_converter">Unit Converter</string>
+    <string name="btn_bmi">BMI Calculator</string>
+    <string name="btn_tip">Tip / Bill Splitter</string>
+
+    <string name="hint_height">Height (cm)</string>
+    <string name="hint_weight">Weight (kg)</string>
+    <string name="btn_calculate_bmi">Calculate BMI</string>
+    <string name="error_positive_values">Values must be greater than 0</string>
+    <string name="error_enter_bmi_values">Please enter height and weight</string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_obese">Obese</string>
+    <string name="bmi_result_format">BMI: %.1f</string>
+
+    <string name="hint_first_number">First number</string>
+    <string name="hint_second_number">Second number</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mul">×</string>
+    <string name="btn_div">÷</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="result_format">Result: %s</string>
+    <string name="error_valid_numbers">Please enter two valid numbers</string>
+
+    <string name="hint_enter_value">Enter value</string>
+    <string name="btn_convert">Convert</string>
+    <string name="conv_km_to_miles">Km to Miles</string>
+    <string name="conv_miles_to_km">Miles to Km</string>
+    <string name="conv_c_to_f">Celsius to Fahrenheit</string>
+    <string name="conv_f_to_c">Fahrenheit to Celsius</string>
+    <string name="conv_kg_to_lbs">Kg to Pounds</string>
+    <string name="conv_lbs_to_kg">Pounds to Kg</string>
+    <string name="error_valid_number">Please enter a valid number</string>
+    <string name="converter_result_format">Result: %.2f</string>
+
+    <string name="hint_bill_amount">Bill amount</string>
+    <string name="hint_tip_percentage">Tip percentage (e.g. 10)</string>
+    <string name="hint_number_of_people">Number of people</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="error_people_count">People must be at least 1</string>
+    <string name="error_fill_fields">Please fill in all fields</string>
+    <string name="total_format">Total: %.2f</string>
+    <string name="per_person_format">Per person: %.2f</string>
+</resources>
